@@ -1,0 +1,3 @@
+git add .
+git commit -m "Added About, Contact, Cart and Service pages with navigation"
+git push origin main
